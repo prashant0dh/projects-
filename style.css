@@ -11,7 +11,7 @@ body{
 
 }
 .top{ 
-    background-image:url(images/mountainrange.jpg);
+    background-image:url(mountainrange.jpg);
     height: 500px;
     text-align: center;
     
@@ -88,4 +88,5 @@ footer{
     text-align: center;
     padding-top: 9px;
     font-size: 16px;
+
 }
