@@ -1,3 +1,5 @@
+@media (max-width:600px){
+
 * {
      margin: 0%;
      padding: 0%;
@@ -12,9 +14,9 @@ body{
 }
 .top{ 
     background-image:url(mountainrange.jpg);
-    height: 500px;
+    height: auto;
     text-align: center;
-    padding-bottom:40px;
+    padding:50px 20px;
    
     
     
@@ -34,8 +36,10 @@ a{
     
 }
 
+
+
 .h1a{ 
-    font-size:60px;
+    font-size:35px;
     margin-top:200px;
     color:#ffffff;
 
@@ -66,8 +70,8 @@ button{
     font-size:17px;
 }
 .pic{ 
-    height:220px;
-    width:325px;
+    height:auto;
+    width:auto;
 }
 
 .buttom{
@@ -91,6 +95,7 @@ footer{
 
 }
 
+}
 
 
 
