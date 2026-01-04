@@ -70,8 +70,8 @@ button{
     font-size:17px;
 }
 .pic{ 
-    height:auto;
-    width:auto;
+    height:100px;
+    width:150px;
 }
 
 .buttom{
@@ -96,6 +96,7 @@ footer{
 }
 
 }
+
 
 
 
